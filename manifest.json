@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Made by XYZ",
+    "name": "XYZ礦物材質包",
+    "uuid": "ca5dd81b-2741-4195-9df5-764a9a07860f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "description": "Made by XYZ",
+      "type": "resources",
+      "uuid": "49d95142-1822-4bc0-a23d-cb1eba92059c",
+      "version": [1, 0, 0]
+    }
+  ]
+}
