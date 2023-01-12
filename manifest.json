@@ -2,8 +2,8 @@
   "format_version": 2,
   "header": {
     "description": "Made by XYZ",
-    "name": "XYZ礦物材質包",
-    "uuid": "ca5dd81b-2741-4195-9df5-764a9a07860f",
+    "name": "XYZ redstone display",
+    "uuid": "695529d9-2d7a-4df3-871d-493d9b51a32a",
     "version": [1, 0, 0],
     "min_engine_version": [1, 13, 0]
   },
